@@ -17,7 +17,8 @@ A new Minecraft launcher, provided as an alternative for T-launcher
 	1.8 Select the folders labeled as ".minecraft and ".tlauncher" and delete them
 	1.9 You have succesfully uninstalled tlauncher :)
  
- 1. Download the file in this github repository called "SKlauncher"
+ 1. Download the file in this mediafire page
+ 	https://www.mediafire.com/file/bzkyih0blgwget9/SKlauncher_3.0.exe/file 	
  2. Double click it and wait for it to finish
  3. When the SK launcher it's opened, click the "offline option" or "play locally" that is at the bottom of the window
  4. That's all, you can now play minecraft for free :)
